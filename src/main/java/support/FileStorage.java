@@ -12,7 +12,7 @@ public class FileStorage {
 
     /**
      * Saves given transactions into file.
-     * @param ArrayList<Transaction> transactions
+     * @param transactions
      * @return boolean : true - save successful, false - save unsuccessful
      */
     public static boolean save(ArrayList<Transaction> transactions){
